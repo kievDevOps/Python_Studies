@@ -1,2 +1,2 @@
 # Python_Studies
-Updating Python basics 🐍
+Python basics 🐍
